@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Guide Paris\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun May 11 2014 00:44:23 GMT+0200 (Środkowoeuropejski czas "
+"letni)\n"
+"PO-Revision-Date: Sun May 11 2014 00:46:51 GMT+0200 (Środkowoeuropejski czas "
+"letni)\n"
+"Last-Translator: admin <krzysztof.urbanski@outlook.com>\n"
+"Language-Team: \n"
+"Language: Polish\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n % 10 >= 2 && n % 10 <= 4 && ( n "
+"% 100 < 10 || n % 100 >= 20 ) ? 1 : 2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: pl_PL\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: /functions.php:130
+msgctxt "general name"
+msgid "Sekcje"
+msgstr ""
+
+#: /functions.php:131
+msgctxt "singular name"
+msgid "Page"
+msgstr "Strona"
+
+#: /functions.php:132
+msgctxt "Sekcja"
+msgid "Add New"
+msgstr "Dodaj nową"
+
+#: /functions.php:133
+msgid "Add New Page"
+msgstr "Dodaj nową stronę"
+
+#: /functions.php:134
+msgid "Edit Page"
+msgstr "Edytuj stronę"
+
+#: /functions.php:135
+msgid "New Page"
+msgstr "Nowa strona"
+
+#: /functions.php:136
+msgid "All Pages"
+msgstr "Wszystkie strony"
+
+#: /functions.php:137
+msgid "View Page"
+msgstr ""
+
+#: /functions.php:138
+msgid "Search Pages"
+msgstr ""
+
+#: /functions.php:139
+msgid "No pages found"
+msgstr ""
+
+#: /functions.php:140
+msgid "No pages found in the Trash"
+msgstr ""
+
+#: /functions.php:151
+msgid "parallax"
+msgstr ""
+
+#: /functions.php:175
+msgid "Posts"
+msgstr ""
+
+#: /functions.php:175
+msgid "Links"
+msgstr ""
+
+#: /functions.php:175
+msgid "Comments"
+msgstr ""
+
+#: /functions.php:253 /includes/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+#: /functions.php:254 /includes/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: /functions.php:255 /includes/class-tgm-plugin-activation.php:198
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /functions.php:256
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /functions.php:257 /includes/class-tgm-plugin-activation.php:200
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:258 /includes/class-tgm-plugin-activation.php:201
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:259 /includes/class-tgm-plugin-activation.php:202
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:260 /includes/class-tgm-plugin-activation.php:203
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:261 /includes/class-tgm-plugin-activation.php:204
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:262 /includes/class-tgm-plugin-activation.php:205
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:263 /includes/class-tgm-plugin-activation.php:206
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:264 /includes/class-tgm-plugin-activation.php:207
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:265 /includes/class-tgm-plugin-activation.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:266 /includes/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /functions.php:267 /includes/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /functions.php:268 /includes/class-tgm-plugin-activation.php:212 /includes/class-tgm-plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /functions.php:269
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:213 /includes/class-tgm-plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /includes/class-tgm-plugin-activation.php:214
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:544 /includes/class-tgm-plugin-activation.php:544 /includes/class-tgm-plugin-activation.php:2168 /includes/class-tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1290 /includes/class-tgm-plugin-activation.php:1290 /includes/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1312 /includes/class-tgm-plugin-activation.php:1312 /includes/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1361
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1935
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2065
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2065 /includes/class-tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2065 /includes/class-tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2067
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2072
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2073
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2074
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: /includes/class-tgm-plugin-activation.php:2076
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
